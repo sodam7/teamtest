@@ -1,4 +1,4 @@
-package com.team.controller;
+package com.lunchmate.order.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
